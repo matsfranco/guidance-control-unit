@@ -6,11 +6,8 @@ Firmware of a guidance control unit for a two-wheel robot
 
 ### Mode 2
 
-Channel | Axis | Code
---- | --- | ---
-CH1 | Right X | RX 
-CH2 | Right Y | RY
-CH3 | Left Y | LY
-CH4 | Left X | LX
-
-
+Channel | Axis | Code | Pin
+--- | --- | --- | ---
+CH1 | Right X | RX | 2
+CH2 | Right Y | RY | 3
+CH3 | Left Y | LY | 4
