@@ -1,8 +1,8 @@
 # guidance-control-unit
-Firmware of a guidance control unit for a two-wheel robot
+Firmware of a guidance control unit for a two-wheel robot.
+The current version reads a multi-channel radio controller which sends PPM signal and sends to a Motor Control Unit by Serial Port
 
-
-## Channel amd Axis Mapping
+## Channel and Axis Mapping
 
 ### Mode 2
 
